@@ -7,15 +7,15 @@ Enjoy a realistic banking experience with our sleek and user-friendly interface.
 
 ### Prerequisites
 
-- Latest JDK: Make sure you have the latest Java Development Kit (JDK) installed on your system. You can download it from here.
+- Latest JDK: Make sure you have the latest Java Development Kit (JDK) installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/downloads/#java11).
 
 - Java IDE (Optional): Any Java Integrated Development Environment (IDE) will work. If you prefer, you can use NetBeans IDE for a smoother development experience.
 
-- SQL Workbench: Install SQL Workbench for managing your MySQL database. You can download it from here. Or you can have it by cloning the repository.
+- SQL Workbench: Install SQL Workbench for managing your MySQL database. You can download it from [here](https://dev.mysql.com/downloads/workbench/).
 
 - MySQL Connector: Ensure you have the MySQL Connector installed to establish a connection between your Java application and the MySQL database.
 
-- JCalendar: This project may require JCalendar library for date-related functionalities. Ensure you have it set up in your development environment. Or you can have it by cloning the repository.
+- JCalendar: This project may require JCalendar library for date-related functionalities. Ensure you have it set up in your development environment.
 
 ### Frontend - Java Swing
 ### Backend - Java
